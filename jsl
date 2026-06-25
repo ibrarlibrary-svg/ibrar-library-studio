@@ -1,0 +1,10 @@
+ibrar-library-studio/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── logo.png
+│
+└── data/
